@@ -17,7 +17,7 @@ organizations:
   url: "http://www.icam.fr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include  Computational Mechanics, Numerical Simulation with the Finite Element Method, Fluid-Structure Interaction analysis, Model  Reduction, Scientic Computation
+bio: My research interests include  Computational Mechanics, Numerical Simulation with the Finite Element Method, Fluid-Structure Interaction analysis, Model  Reduction, Scientific Computation
 
 education:
   courses:
