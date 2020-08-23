@@ -59,4 +59,4 @@ user_groups:
 - Visitors
 ---
 
-Amaury Deldicque is a professor of Computational Mechanics at the ICAM Mechanical Lab. His research interests include  Computational Mechanics, Numerical Simulation with the Finite Element Method, Fluid-Structure Interaction analysis, Model  Reduction, Scientic Computation
+Amaury Deldicque is a professor of Computational Mechanics at the ICAM Mechanical Lab. His research interests include  Computational Mechanics, Numerical Simulation with the Finite Element Method, Fluid-Structure Interaction analysis, Model  Reduction, Scientific Computation
