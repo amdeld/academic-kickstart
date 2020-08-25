@@ -17,7 +17,7 @@ organizations:
   url: "http://www.icam.fr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include  Computational Mechanics, Numerical Simulation with the Finite Element Method, Fluid-Structure Interaction analysis, Model  Reduction, Scientific Computation
+bio: My research interests include  Computational Mechanics, Numerical Simulation with the Finite Element Method, Fluid-Structure Interaction analysis, Model  Reduction, Scientific Computing
 
 education:
   courses:
@@ -59,4 +59,4 @@ user_groups:
 - Visitors
 ---
 
-Amaury Deldicque is a professor of Computational Mechanics at the ICAM Mechanical Lab. His research interests include  Computational Mechanics, Numerical Simulation with the Finite Element Method, Fluid-Structure Interaction analysis, Model  Reduction, Scientific Computation
+Amaury Deldicque is a professor of Computational Mechanics at the ICAM Mechanical Lab. His research interests include  Computational Mechanics, Numerical Simulation with the Finite Element Method, Fluid-Structure Interaction analysis, Model  Reduction, Scientific Computing
